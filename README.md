@@ -5,6 +5,6 @@ In this homework assignment, we were tasked with building an Amazon Lex chatbot 
 <br>
 <p align="center"><img src="https://github.com/ThomasJScott3/unit13-challenge/blob/main/Images/Roboadvisor_Test.gif" class="center"></img></p>
 
-Note: I have included the icons for the risk levels. Feel free to update them in my bot when reviewing. The URLs for said icons are currently pulling from the GitLab homework repository for this course.
+Note: I have included the icons for the risk levels in this repo. Feel free to update them in my bot when reviewing. The URLs for said icons are currently pulling from the GitLab homework repository for this course.
 
 -Thomas J. Scott
